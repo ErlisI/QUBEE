@@ -6,3 +6,5 @@ How To Play?
 - And try to win all the levels :)
 
 <img src = "https://media.giphy.com/media/gxvKuyn0LqvoimT8Eq/giphy.gif"/>
+
+https://media.giphy.com/media/gxvKuyn0LqvoimT8Eq/giphy.gif
